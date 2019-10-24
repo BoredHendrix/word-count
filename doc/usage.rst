@@ -7,8 +7,7 @@ Usage
 How to clone the code
 ---------------------
 
-use git clone <source> <destination>
-
+use git clone 
 
 Make
 ----
